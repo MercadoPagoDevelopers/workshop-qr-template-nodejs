@@ -33,5 +33,5 @@ Requisitos para realizar la integración:
 6. Nuevamente considerando que tu usuario de GitHub es `username` (substituir en la URL por el correcto), acceder a `https://username-mp-ecommerce-nodejs.herokuapp.com` y validar que la app esté corriendo. Deberás visualizar algo como lo siguiente
 
 <div style="text-align: center;" >
-<img src="docs/step4.png" width=800 />
+<img src="docs/step3.png" width=800 />
 </div>
